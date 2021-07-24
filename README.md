@@ -1,3 +1,3 @@
 # Dataset Russian Handwritten Letters
-## Get From Kaggle User https://www.kaggle.com/tatianasnwrt, Github User https://github.com/TatianaSnauwaert
-### Exported models to Convolutional Neural Network (CNN)
+## Taken From Kaggle User https://www.kaggle.com/tatianasnwrt, Github User https://github.com/TatianaSnauwaert
+### That Dataset Exported To Models Convolutional Neural Network (CNN), For Learning Build A Simple Artificial Neural Network.
